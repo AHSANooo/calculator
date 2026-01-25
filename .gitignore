@@ -1,0 +1,6 @@
+# Build outputs
+calculator_app/build/
+*.exe
+*.pkg
+dist/
+build/
